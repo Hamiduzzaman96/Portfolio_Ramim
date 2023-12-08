@@ -1,0 +1,31 @@
+.experience {
+    background-color: rgb(4, 60, 62);
+    color: whitesmoke;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.lebel {
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+    padding-left: 40px;
+    text-align: center;
+    height: 190px;
+    align-items: center;
+}
+
+.p0 {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.p1 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.p2 {
+    font-size: 15px;
+    font-weight: 500;
+}

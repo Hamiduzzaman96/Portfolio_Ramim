@@ -1,0 +1,18 @@
+.project {
+    background-color: rgb(9, 72, 56);
+    text-align: center;
+    color: whitesmoke;
+}
+
+.empty {
+    display: grid;
+    grid-template-columns: repeat(3, 400px);
+    height: fit-content;
+    width: 400px;
+    justify-content: space-between;
+    gap: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+
+}
+
