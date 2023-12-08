@@ -12,16 +12,17 @@ const Home = () => {
         <>
             <div className='full'>
                 <div className='text'>
+                    <p className='h4'>I'm Hamiduzzaman</p>
                     <TypeAnimation className='h'
                         sequence={[
                             // Same substring at the start will only be typed once, initially
-                            'I am Hamiduzzaman A Front-End Developer',
+                            ' A Front-End Developer',
                             1000,
-                            'I am Hamiduzzaman A React Developer',
+                            ' A React Developer',
                             1000,
-                            'I am Hamiduzzaman A Laravel Developer',
+                            ' A Laravel Developer',
                             1000,
-                            'I am Hamiduzzaman A UI/UX Designer',
+                            ' A UI/UX Designer',
                             1000,
                         ]}
                         speed={50}
