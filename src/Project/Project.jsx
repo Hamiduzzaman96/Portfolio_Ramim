@@ -9,7 +9,8 @@ import pic_06 from '../assets/ema-06.png'
 
 export default function Project() {
   return (
-    <>
+    <div id='project'>
+    
      <h1 className='project'>Project:</h1>
      <div className='empty'>
      <div>
@@ -49,6 +50,6 @@ export default function Project() {
         </a>
      </div>
      </div>
-    </>
+    </div>
   )
 }
