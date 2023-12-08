@@ -2,15 +2,16 @@ import React from 'react'
 
 export default function Header() {
     const navOption = <>
-        <li><a>Item 1</a></li>
+        <li><a>Home</a></li>
         <li>
-            <a>Parent</a>
+            <a>Project</a>
             <ul className="p-2">
-                <li><a>Submenu 1</a></li>
-                <li><a>Submenu 2</a></li>
+                <li><a>Front-End</a></li>
+                <li><a>UI/UX</a></li>
             </ul>
         </li>
-        <li><a>Item 3</a></li>
+        <li><a>Blog</a></li>
+        <li><a href="">Contact</a></li>
     </>
     return (
         <div>
@@ -28,21 +29,22 @@ export default function Header() {
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
-                        <li><a>Item 1</a></li>
+                        <li><a>Home</a></li>
                         <li>
                             <details>
-                                <summary>Parent</summary>
+                                <summary>Project</summary>
                                 <ul className="p-2 text-black">
-                                    <li><a>Submenu 1</a></li>
-                                    <li><a>Submenu 2</a></li>
+                                    <li><a>React.js</a></li>
+                                    <li><a>UI/UX</a></li>
+                                    <li><a href="">C#</a></li>
                                 </ul>
                             </details>
                         </li>
-                        <li><a>Item 3</a></li>
+                        <li><a>Contact</a></li>
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="btn">Button</a>
+                    <a className="btn">Hire me</a>
                 </div>
             </div>
         </div>
