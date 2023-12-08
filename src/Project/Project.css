@@ -1,7 +1,9 @@
 .project {
-    background-color: rgb(9, 72, 56);
+    background-color: rgb(4, 60, 62);
     text-align: center;
     color: whitesmoke;
+    font-size: 25px;
+    font-weight: 700;
 }
 
 .empty {
@@ -10,9 +12,14 @@
     height: fit-content;
     width: 400px;
     justify-content: space-between;
-    gap: 10px;
+    gap: 19px;
     padding-left: 20px;
     padding-top: 20px;
 
+}
+div a p{
+    text-align: center;
+    font-size: 19px;
+    font-weight: 700;
 }
 

@@ -10,7 +10,7 @@ import pic_06 from '../assets/ema-06.png'
 export default function Project() {
   return (
     <>
-     <h1 className='project'>Project</h1>
+     <h1 className='project'>Project:</h1>
      <div className='empty'>
      <div>
         <a href="https://ema-zohn.vercel.app/">
