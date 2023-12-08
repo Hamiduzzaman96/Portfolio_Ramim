@@ -1,11 +1,13 @@
 .name img{
     height: 25px;
-    background-color: aliceblue;
+    
 }
 .h2{
     font-size: 20px;
     font-weight: 600;
 }
-.img{
+.footer-title{
+    text-align: center;
+    padding-left: 24px;
     color: whitesmoke;
 }
