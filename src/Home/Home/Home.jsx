@@ -1,6 +1,7 @@
 import './Home.css'
 import img1 from '../../assets/ramim-01.png'
 import Skill from '../../Skills/Skill';
+import Experience from '../../Experience/Experience';
 
 
 const Home = () => {
@@ -21,6 +22,7 @@ const Home = () => {
                 
             </div>
             <div><Skill></Skill></div>
+            <div><Experience></Experience></div>
            
            
            

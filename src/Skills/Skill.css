@@ -1,6 +1,9 @@
 .skill{
     display: grid;
-    grid-template-columns: repeat(13, 100px);
+    grid-template-columns: repeat(13, 95px);
+    padding-top: 20px;
+    padding-left: 10px;
+    gap: 10px;
      
 }
 .h1{
@@ -8,6 +11,7 @@
     font-weight: 700;
     margin: auto;
     padding-left: 40px;
+    text-align: center;
 }
 
 .high{
@@ -15,4 +19,9 @@
     height: fit-content;
     background-color: rgb(4, 60, 62);
     color: whitesmoke;
+}
+.skill div p{
+    text-align: center;
+    font-size: 19px;
+    font-weight: 700;
 }

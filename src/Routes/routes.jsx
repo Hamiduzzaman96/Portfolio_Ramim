@@ -5,6 +5,7 @@ import {
 import Main from "../Layout/Main";
 import Home from "../Home/Home/Home";
 import Skill from "../Skills/Skill";
+import Experience from "../Experience/Experience";
 
 
   export const router = createBrowserRouter([
@@ -19,6 +20,10 @@ import Skill from "../Skills/Skill";
         {
           path:'/skill',
           element:<Skill></Skill>
+        },
+        {
+          path:'/experience',
+          element:<Experience></Experience>
         }
       ]
     },
