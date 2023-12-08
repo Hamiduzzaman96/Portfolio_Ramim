@@ -1,4 +1,17 @@
 .full{
     display: grid;
-    grid-template-columns: 2fr 3fr;
+    grid-template-columns: 3fr 3fr;
+    justify-content: center;
+}
+.text{
+    text-align: center;
+    margin: auto;
+}
+.h{
+    font-size: 30px;
+    font-weight: 700;
+}
+.picture{
+    margin-left: 30px;
+    padding-left: 20px;
 }
