@@ -25,25 +25,25 @@ export default function Project() {
         </a>
      </div>
      <div>
-        <a href="https://yummy-yummy-restaurant-yap-vhj6-hamiduzzaman96.vercel.app/">
+        <a href="https://github.com/Hamiduzzaman96/T-Shirt-New.git">
             <img src={pic_03} alt="" />
             <p>T-Shirt</p>
         </a>
      </div>
      <div>
-        <a href="https://yummy-yummy-restaurant-yap-vhj6-hamiduzzaman96.vercel.app/">
+        <a href="https://github.com/Hamiduzzaman96/Amazon-Clone-1.git">
             <img src={pic_04} alt="" />
             <p>Amazon-Clone</p>
         </a>
      </div>
      <div>
-        <a href="https://yummy-yummy-restaurant-yap-vhj6-hamiduzzaman96.vercel.app/">
+        <a href="https://github.com/Hamiduzzaman96/Pc-Shop-Management-1.git">
             <img src={pic_05} alt="" />
             <p>PC Shop Management</p>
         </a>
      </div>
      <div>
-        <a href="https://yummy-yummy-restaurant-yap-vhj6-hamiduzzaman96.vercel.app/">
+        <a href="https://github.com/Hamiduzzaman96/Library-Management-System.git">
             <img src={pic_06} alt="" />
             <p>Library Management System</p>
         </a>

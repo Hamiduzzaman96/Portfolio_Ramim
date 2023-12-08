@@ -25,10 +25,13 @@ export default function Header() {
                           {navOption}
                         </ul>
                     </div>
-                    <a className="btn btn-ghost text-xl">Hamiduzzaman Ramim</a>
+                    <a className="btn btn-ghost text-3xl">Hamiduzzaman Ramim
+                    
+                    </a>
+                    
                 </div>
                 <div className="navbar-center hidden lg:flex">
-                    <ul className="menu menu-horizontal px-1">
+                    <ul className="menu menu-horizontal px-1 text-xl">
                         <li><a>Home</a></li>
                         <li>
                             <details>
