@@ -4,6 +4,7 @@ import Skill from '../../Skills/Skill';
 import Experience from '../../Experience/Experience';
 import Project from '../../Project/Project';
 import { TypeAnimation } from 'react-type-animation';
+import Familiar from '../../Familiar/Familiar';
 
 
 const Home = () => {
@@ -39,6 +40,7 @@ const Home = () => {
 
             </div>
             <div><Skill></Skill></div>
+            <div><Familiar></Familiar></div>
             <div><Experience></Experience></div>
             <div><Project></Project></div>
 
