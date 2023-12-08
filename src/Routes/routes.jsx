@@ -15,7 +15,8 @@ import Skill from "../Skills/Skill";
         {
             path:'/',
             element:<Home></Home>
-        },{
+        },
+        {
           path:'/skill',
           element:<Skill></Skill>
         }

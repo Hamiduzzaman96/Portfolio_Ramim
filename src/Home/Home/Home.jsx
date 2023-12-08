@@ -1,5 +1,7 @@
 import './Home.css'
 import img1 from '../../assets/ramim-01.png'
+import Skill from '../../Skills/Skill';
+
 
 const Home = () => {
     return (
@@ -16,7 +18,12 @@ const Home = () => {
                 <div className='picture'>
                     <img src={img1} alt="" />
                 </div>
+                
             </div>
+            <div><Skill></Skill></div>
+           
+           
+           
         </>
     );
 }
