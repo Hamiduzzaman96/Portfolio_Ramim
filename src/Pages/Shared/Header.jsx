@@ -29,7 +29,7 @@ export default function Header() {
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1 text-xl">
-                        <li><a target="_blank" href="#">Home</a></li>
+                        <li><a  href="/">Home</a></li>
                         <li><a href="#project"> Project</a>    
                         </li>
                         <li><a href='#Footer' >Contact</a></li>
